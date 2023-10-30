@@ -43,7 +43,7 @@ Global $defaultprofile = ""
 ;Global $hGUI = GUICreate("MBR Config INI Tool v1.0.0", 613, 903, -1, -1)
 
 ; UI
-Global $UiForm = GUICreate("MBR Config INI Tool v1.0.1", 613, 740, -1, -1)
+Global $UiForm = GUICreate("MBR Config INI Tool v1.0.3", 613, 740, -1, -1)
 GUISetIcon($g_hDllIcons, $g_IconMain)
 
 ; TOP
